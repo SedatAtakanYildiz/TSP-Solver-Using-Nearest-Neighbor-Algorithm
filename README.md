@@ -1,6 +1,8 @@
-Gezgin Satıcı Problemi'ni En Yakın Komşu Algoritması kullanarak çözümlenmesi.
+# TSP Solver Using Nearest Neighbor Algorithm
 
-#Açıklama
+Gezgin Satıcı Problemi'ni En Yakın Komşu Algoritması kullanarak çözen C++ projesi.
+
+##Açıklama
 Bu proje, çeşitli şehirlerden veri alarak En Yakın Komşu Algoritması (Nearest Neighbor Algorithm) kullanarak Gezgin Satıcı Problemi'ni (TSP) çözmektedir.
 
 ## Kullanım
