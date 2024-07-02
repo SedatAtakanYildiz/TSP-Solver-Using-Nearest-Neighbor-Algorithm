@@ -20,7 +20,7 @@ Bu proje, çeşitli şehirlerden veri alarak En Yakın Komşu Algoritması (Near
 1. Proje dosyasını çalıştırın:
 
        ./tsp_solver
-##Dosya Listesi
+## Dosya Listesi
 Ana kaynak dosyası: TSP.cpp
 Veri dosyaları: tsp_51_1, tsp_100_2, tsp_783_1, tsp_4461_1, tsp_85900_1
 
